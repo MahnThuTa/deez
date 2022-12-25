@@ -12,11 +12,14 @@ while True:
     np[1] = Green
     np.show()
     sleep(5000)
+    np.clear()
 
     np[2] = Orange
     np.show()
     sleep(2000)
+    np.clear()
 
     np[3] = Red
     np.show()
     sleep(5000)
+    np.clear()
